@@ -38,7 +38,7 @@ past = function(){
       past();
     })
 
-   //setInterval(next , 3000);
+   setInterval(next , 3000);
 
 
 
